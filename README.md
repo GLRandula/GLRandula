@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GLRandula/GLRandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Lakith+Randula)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Lakith+Randula...)](https://git.io/typing-svg)
 
 I'm a Learner!
 
@@ -27,3 +25,5 @@ I'm a Learner!
 👦 ABOUT ME
 
 I'm Lakith Randula. I'm an undergraduate student in University of Kelaniya, Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
+
+ 
