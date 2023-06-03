@@ -18,7 +18,7 @@ I'm a Learner!
 
     🌱 I’m currently learning Computer Science.
     👯 I try to learn Machine Learning & Data Science related things
-    🥅 Goals: Achieve my future 
+    🥅 Goals: Achieve my future dreams
     📫 How to reach me: linkedin
     ⚡ Fun fact: I love to listen to everything and reading articles
 
