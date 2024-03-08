@@ -86,9 +86,8 @@
 
 <h3 align="left">Certifications:</h3>
 <div>
-    <img src="https://drive.google.com/file/d/1tqdk39dg8fPpB8QuvP4bjvmiBmlUvmdm/view?usp=drive_link" width="100px" height="100px">
-    <img src="./image/OCIF2023CA.png" width="200px" height="100px">
-    <img src="./image/credlybadge-associatedeveloper.png" width="100px" height="100px">
+    <img src="./images/Machine_Learning_with_Python.png" width="200px" height="100px">
+    <img src="./images/data-analysis-using-python.png" width="100px" height="100px">
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
