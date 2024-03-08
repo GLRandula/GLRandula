@@ -57,7 +57,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ts,js,react,nextjs,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,ts,js,react,nextjs,redux,tailwind" />
   </a>
 </p>
 
