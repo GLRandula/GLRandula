@@ -86,7 +86,7 @@
 
 <h3 align="left">Certifications:</h3>
 <div>
-    <img src="./images/Machine_Learning_with_Python.png" width="200px" height="100px">
+    <img src="./images/Machine_Learning_with_Python.png" width="100px" height="100px">
     <img src="./images/data-analysis-using-python.png" width="100px" height="100px">
 </div>
 
