@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **C, C++, Python, PHP, Java and NodeJS**
 
-- 📫 How to reach me **tharindudamruwan23@gmail.com**
+- 📫 How to reach me **lakithrandula6@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
