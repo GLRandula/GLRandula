@@ -22,7 +22,7 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/gradient-metaverse-background_22434705.htm#fromView=search&page=1&position=46&uuid=5ee632ac-9e82-4f48-b251-e987834d1f4f">
 <br><br>
 
 - 🔭 I’m currently working on **UA IT(JKH IT)**
