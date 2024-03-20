@@ -22,9 +22,6 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img src="./images/Machine_Learning_with_Python.png" width="100px" height="100px">
-<br><br>
-
 - 🔭 I’m currently working on **UA IT(JKH IT)**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
