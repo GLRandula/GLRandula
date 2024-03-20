@@ -22,6 +22,8 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<img align="right" alt="cover_gif" width="400" src="./images/Machine_Learning_with_Python.png">
+
 - 🔭 I’m currently working on **###**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
