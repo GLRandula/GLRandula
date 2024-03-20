@@ -21,7 +21,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
 </div>
-<br>
+<br><br>
 <img align="right" alt="cover_gif" width="500" src="./images/bJk.gif">
 
 - 🔭 I’m currently working on **###**
