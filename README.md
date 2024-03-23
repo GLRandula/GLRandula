@@ -22,7 +22,7 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <br><br>
-<img align="right" alt="cover_gif" width="400" height="360" src="./images/bJk.gif">
+<img align="right" alt="1ktC.gif" width="400" height="360" src="./images/1ktC.gif">
 
 - 🔭 I’m currently working on **###**
 
