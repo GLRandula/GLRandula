@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Lakith Randula</h1>
 <h3 align="center">Computer Science Student from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I am Captivated by computer technology 🌐 since childhood, I'm driven to pursue software engineering. Exploring new tech stacks 💻 to create innovative projects 🛠️ brings immense joy, pushing boundaries endlessly in this ever-evolving field.</p>
 <p align="center">
 
 <div align="center">
