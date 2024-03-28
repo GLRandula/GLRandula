@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **###**
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Data Science and AI **
 
 - 💬 Ask me about **C, C#, Python, PHP, Java and NodeJS**
 
