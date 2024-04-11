@@ -60,7 +60,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,spring,fastapi,django,express,nextjs" />
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,spring,fastapi,django,express,nextjs,dotnet" />
   </a>
 </p>
 
