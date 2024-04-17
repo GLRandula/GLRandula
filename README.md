@@ -94,7 +94,7 @@
     <img src="./images/Node_and_Express_Essentials02.png" width="100px" height="100px">
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" height="20" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" height="20" width="100%">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glrandula" alt="glrandula" /></a> </p>
 
 👦 ABOUT ME
