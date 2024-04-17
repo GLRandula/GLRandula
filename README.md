@@ -93,8 +93,6 @@
     <img src="./images/data-analysis-using-python.png" width="100px" height="100px">
     <img src="./images/Node_and_Express_Essentials02.png" width="100px" height="100px">
 </div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glrandula&theme=dracula&row=1&column=6" alt="glrandula" /></a> </p>
 
 👦 ABOUT ME
