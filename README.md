@@ -95,7 +95,7 @@
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glrandula" alt="glrandula" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glrandula&theme=dracula" alt="glrandula" /></a> </p>
 
 👦 ABOUT ME
 
