@@ -100,7 +100,8 @@
 <br/><br/><br/>
 
 <h3 align="left">Github Stats:</h3>
-
+![GLRandula's Stats](https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="glrandula" /></p>
 
 👦 ABOUT ME
 
