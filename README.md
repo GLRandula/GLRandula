@@ -104,9 +104,11 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&layout=compact"  width="400px" /></p>
 <br/><br/>
 
-<div style="display: inline-block;"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="500px" alt="glrandula" /></p></div>
+<div style="display: inline-block; text-align: center;">
+    <p style="display: inline-block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="500px" alt="glrandula" /></p>
+</div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=true" width="500px" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&layout=compact"  width="400px" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400px" /></p>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
