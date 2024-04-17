@@ -101,9 +101,9 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="500px" alt="glrandula" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=false" width="500px" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&layout=compact"  width="500px" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="450px" alt="glrandula" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=false" width="450px" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&layout=compact"  width="450px" /></p>
 
 👦 ABOUT ME
 
