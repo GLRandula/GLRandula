@@ -105,8 +105,8 @@
 <br/><br/>
 
 <div style="display: inline-block; text-align: center;">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="glrandula" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=true" /></p>
+<p style="display: flex;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="glrandula" /></p>
+<p style="display: flex;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=true" /></p>
 </div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="400px" /></p>
 
