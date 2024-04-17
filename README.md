@@ -45,7 +45,6 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -78,8 +77,6 @@
   </a>
 </p>
 
-
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Certifications:</h3>
@@ -89,6 +86,9 @@
     <img src="./images/Node_and_Express_Essentials02.png" width="100px" height="100px">
 </div>
 <br/><br/><br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Trophies:</h3>
 <br/>
