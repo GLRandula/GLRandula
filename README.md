@@ -102,7 +102,14 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="500px" alt="glrandula" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=false" width="500px" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&layout=compact"  width="400px" /></p>
+<br/><br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GLRandula&bg_color=000000&color=ffffff&line=fe62b5&point=ff0088&area=true&hide_border=true" alt="glrandula" /></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GLRandula&bg_color=000000&color=ffffff&line=fe62b5&point=ff0088&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/><br/><br/>
+
 👦 ABOUT ME
 
 I'm Lakith Randula. I'm an undergraduate student in University of Kelaniya, Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
