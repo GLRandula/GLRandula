@@ -100,11 +100,11 @@
 <br/><br/><br/>
 
 <h3 align="left">Github Stats:</h3>
-
+<br/><br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&count_private=true" width="500px" alt="glrandula" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=false" width="500px" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=dracula&show_icons=true&hide_border=false&layout=compact"  width="400px" /></p>
-
+<br/><br/><br/>
 👦 ABOUT ME
 
 I'm Lakith Randula. I'm an undergraduate student in University of Kelaniya, Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
