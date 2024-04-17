@@ -93,10 +93,8 @@
     <img src="./images/data-analysis-using-python.png" width="100px" height="100px">
     <img src="./images/Node_and_Express_Essentials02.png" width="100px" height="100px">
 </div>
-<div align="center">
-  <a href= "https://twitter.com/anujcodes_25">
-  <img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" /></a>&ensp;
-</div>
+<br/><br/><br/>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glrandula&theme=dracula&row=1&column=6" alt="glrandula" /></a> </p>
 
 👦 ABOUT ME
