@@ -48,9 +48,9 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glrandula&show_icons=true&locale=en" alt="glrandula" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glrandula&show_icons=true&locale=en&layout=compact" alt="glrandula" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glrandula&show_icons=true&locale=en&layout=compact" alt="glrandula" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glrandula&" alt="glrandula" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glrandula&" alt="glrandula" /></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
