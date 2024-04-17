@@ -103,8 +103,8 @@ I'm Lakith Randula. I'm an undergraduate student in University of Kelaniya, Sri 
 
 
 
-<h1 align="center">Hi 👋, I'm Lakith Randula</h1>
-<h3 align="center">A Computer Science Undergraduate from Sri Lanka</h3>
+- <h1 align="center">Hi 👋, I'm Lakith Randula</h1>
+- <h3 align="center">A Computer Science Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glrandula&label=Profile%20views&color=0e75b6&style=flat" alt="glrandula" /> </p>
 
