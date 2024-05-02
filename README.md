@@ -99,9 +99,9 @@
 
 <h3 align="left">Github Stats:</h3>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="360px" alt="glrandula" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=onedark&hide_border=true" width="360px" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&layout=compact"  width="400px" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="400px" alt="glrandula" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=onedark&hide_border=true" width="400px" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&layout=compact"  width="360px" /></p>
 <br/><br/>
 
 <!--div style="display: flex; text-align: center;">
@@ -116,6 +116,17 @@
 <h3 align="left">Activities:</h3>
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GLRandula&bg_color=000000&color=ffffff&line=fe62b5&point=ff0088&area=true&hide_border=true" alt="glrandula" /></p>
+
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="400px" alt="glrandula" /></p>
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=onedark&hide_border=true" width="400px" /></p>
+  </div>
+  <div>
+    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&layout=compact"  width="360px" /></p>
+  </div>
+</div>
+
 
 <br/><br/><br/>
 
