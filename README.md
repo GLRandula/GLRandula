@@ -59,7 +59,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,spring,fastapi,django,express,dotnet" />
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,express,spring,fastapi,django,dotnet" />
   </a>
 </p>
 
