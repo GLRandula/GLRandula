@@ -99,9 +99,9 @@
 
 <h3 align="left">Github Stats:</h3>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="300px" alt="glrandula" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=onedark&hide_border=true" width="300px" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&layout=compact"  width="300px" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="400px" alt="glrandula" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=onedark&hide_border=true" width="400px" /></p>
 <br/><br/>
 
 <!--div style="display: flex; text-align: center;">
