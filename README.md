@@ -116,12 +116,3 @@
 <h3 align="left">Activities:</h3>
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GLRandula&bg_color=000000&color=ffffff&line=fe62b5&point=ff0088&area=true&hide_border=true" alt="glrandula" /></p>
-
-
-<br/><br/><br/>
-
-👦 ABOUT ME
-
-I'm Lakith Randula. I'm an undergraduate student in University of Kelaniya, Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
-
-
