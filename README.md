@@ -73,7 +73,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,ps,idea,vscode,pycharm,illustrator,visualstudio,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,ps,idea,vscode,pycharm,illustrator,visualstudio,postman,androidstudio" />
   </a>
 </p>
 
