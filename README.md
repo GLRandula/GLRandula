@@ -48,7 +48,13 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
+- Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,php" />
+  </a>
+</p>
 
 - Frontend
 <p align="left">
@@ -60,7 +66,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,express,spring,fastapi,django,dotnet,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,django,dotnet,laravel" />
   </a>
 </p>
 
