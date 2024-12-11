@@ -49,7 +49,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Tech Stack:</h3>
-- Languages
+
+- Language
+<p></p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,php" />
