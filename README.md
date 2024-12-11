@@ -74,7 +74,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,ps,idea,vscode,pycharm,anaconda,illustrator,visualstudio,postman,docker,androidstudio,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,aws,github,figma,ps,idea,vscode,pycharm,anaconda,illustrator,visualstudio,postman,docker,androidstudio,stackoverflow" />
   </a>
 </p>
 
