@@ -24,7 +24,7 @@
 </div>
 <br><br><br>
 <img align="right" alt="1ktC.gif" width="300" src="./images/Parkpro.png">
-## 💫About Me :
+
 - 🔭 I’m currently working on **###**
 
 - 🌱 I’m currently learning **Machine Learning, Data Science and AI **
