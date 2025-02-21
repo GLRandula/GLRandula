@@ -46,6 +46,8 @@
 </p>
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=glrandula&icon=0&color=2)](https://visitcount.itsvg.in)
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -112,13 +114,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<h3 align="left">Github Stats:</h3>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=yeblu&show_icons=true&hide_border=false&layout=compact"  width="300px" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=yeblu&show_icons=true&hide_border=false&count_private=true" width="450px" alt="glrandula" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=yeblu&hide_border=false" width="450px" /></p>
-<br/><br/>
 
 <!--div style="display: flex; text-align: center;">
 <p style="display: inline-block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="glrandula" /></p>
