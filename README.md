@@ -102,18 +102,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆GitHub Trophies
-<div align="center">
 ![](https://github-trophies.vercel.app/?username=glrandula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-</div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 📊GitHub Stats :
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 ![](https://github-readme-stats.vercel.app/api?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)</br>
-</div>
 </br>
 
 <!--div style="display: flex; text-align: center;">
