@@ -113,6 +113,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)</br>
 </br>
 
+# 📊 GitHub Stats :
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)</br>
+
+</div>
+
 <!--div style="display: flex; text-align: center;">
 <p style="display: inline-block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="glrandula" /></p>
 <p style="display: inline-block;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=dracula&hide_border=true" /></p>
