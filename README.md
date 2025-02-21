@@ -104,9 +104,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=glrandula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glrandula&theme=onedark&hide_border=true&row=1&column=6" alt="glrandula" /></a> </p>
-<br/><br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
