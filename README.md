@@ -1,7 +1,6 @@
 <img  src="./images/Banner.png" alt="banner-image">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-## 💫About Me :
 <h1 align="center">Hi 👋, I'm Lakith Randula</h1>
 <h3 align="center">Computer Science Student from Sri lanka</h3>
 <p align="center">I am captivated by computer technology 🌐 since childhood, I'm driven to pursue software engineering. Exploring new tech stacks 💻 to create innovative projects 🛠️ brings immense joy, pushing boundaries endlessly in this ever- evolving field.</p>
@@ -25,7 +24,7 @@
 </div>
 <br><br><br>
 <img align="right" alt="1ktC.gif" width="300" src="./images/Parkpro.png">
-
+## 💫About Me :
 - 🔭 I’m currently working on **###**
 
 - 🌱 I’m currently learning **Machine Learning, Data Science and AI **
@@ -111,6 +110,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</br>
 
 <!--div style="display: flex; text-align: center;">
 <p style="display: inline-block;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="glrandula" /></p>
