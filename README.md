@@ -1,7 +1,7 @@
 <img  src="./images/Banner.png" alt="banner-image">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
+## 💫About Me :
 <h1 align="center">Hi 👋, I'm Lakith Randula</h1>
 <h3 align="center">Computer Science Student from Sri lanka</h3>
 <p align="center">I am captivated by computer technology 🌐 since childhood, I'm driven to pursue software engineering. Exploring new tech stacks 💻 to create innovative projects 🛠️ brings immense joy, pushing boundaries endlessly in this ever- evolving field.</p>
@@ -100,7 +100,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophies:</h3>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=glrandula&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glrandula&theme=onedark&hide_border=true&row=1&column=6" alt="glrandula" /></a> </p>
 <br/><br/>
@@ -109,9 +110,9 @@
 
 <h3 align="left">Github Stats:</h3>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=yeblu&show_icons=true&hide_border=true&layout=compact"  width="300px" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=yeblu&show_icons=true&hide_border=true&count_private=true" width="450px" alt="glrandula" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=yeblu&hide_border=true" width="450px" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=yeblu&show_icons=true&hide_border=false&layout=compact"  width="300px" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GLRandula&theme=yeblu&show_icons=true&hide_border=false&count_private=true" width="450px" alt="glrandula" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GLRandula&theme=yeblu&hide_border=false" width="450px" /></p>
 <br/><br/>
 
 <!--div style="display: flex; text-align: center;">
