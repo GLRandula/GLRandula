@@ -107,9 +107,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)</br>
 </br>
 
 <!--div style="display: flex; text-align: center;">
