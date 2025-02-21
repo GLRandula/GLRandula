@@ -108,6 +108,11 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=glrandula&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glrandula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <h3 align="left">Github Stats:</h3>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLRandula&theme=yeblu&show_icons=true&hide_border=false&layout=compact"  width="300px" /></p>
