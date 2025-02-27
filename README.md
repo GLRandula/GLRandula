@@ -54,14 +54,14 @@
 <p></p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,php" />
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,java,python,js,ts,php" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,jquery,react,ts,vite,nextjs,tailwind,mui,vuejs" />
+    <img src="https://skillicons.dev/icons?i=wordpress,bootstrap,jquery,react,vite,nextjs,tailwind,mui,vuejs" />
   </a>
 </p>
 
