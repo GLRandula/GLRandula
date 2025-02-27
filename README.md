@@ -75,14 +75,14 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,supabase" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,github,figma,ps,idea,vscode,pycharm,anaconda,illustrator,visualstudio,postman,docker,androidstudio,stackoverflow,gcp,nginx,pytorch,redux,redis,regex,sass,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,aws,github,figma,ps,idea,vscode,pycharm,anaconda,illustrator,visualstudio,postman,docker,androidstudio,stackoverflow,gcp,nginx,pytorch,redux,regex,sass,sklearn,tensorflow" />
   </a>
 </p>
 
