@@ -68,21 +68,21 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,django,dotnet,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,dotnet" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,github,figma,ps,idea,vscode,pycharm,anaconda,illustrator,visualstudio,postman,docker,androidstudio,stackoverflow,gcp,nginx,pytorch,redux,regex,sass,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,pycharm,anaconda,visualstudio,postman,docker,aws,stackoverflow,redux,sass" />
   </a>
 </p>
 
