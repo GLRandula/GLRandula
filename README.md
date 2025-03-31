@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science and AI**
 
-- 💬 Ask me about **C, C#, Python, PHP, Java and NodeJS**
+- 💬 Ask me about **ReactJs, NextJs and NodeJS**
 
 - 📫 How to reach me **lakithrandula6@gmail.com**
 
