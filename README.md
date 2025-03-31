@@ -25,20 +25,21 @@
 <br><br><br>
 <img align="right" alt="1ktC.gif" width="300" src="./images/Parkpro.png">
 
-- 🌱 I’m currently learning **Machine Learning, Data Science and AI **
+- 🌱 I’m currently learning **Machine Learning, Data Science and AI**
 
 - 💬 Ask me about **C, C#, Python, PHP, Java and NodeJS**
 
 - 📫 How to reach me **lakithrandula6@gmail.com**
 
-- 📄 Know about my experiences [my experiences](#)
+- 📄 Know about my experiences [My Portfolio](https://lakithrandula.live)
 
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lakith-randula-712095264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glrandula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/glrandula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glrandula" height="30" width="40" /></a>
+<a href="mailto:lakithrandula6@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="glrandula" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100055373621074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="glrandula" height="30" width="40" /></a>
 </p>
 <br>
